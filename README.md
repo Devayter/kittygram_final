@@ -1,4 +1,4 @@
-https://github.com/Devayter/kittygram_final/actions/workflows/badge.svg
+https://github.com/Devayter/kittygram_final/actions/workflows/main.yml/badge.svg
 
 # Описание проекта:
 Данный проект представляет сайт, где любой желающий может поделиться информацией о своем домашнем котике. Можно загружать фотографии, добавлять имя, цвет питомца и его достижения.
